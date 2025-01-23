@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextComponent/> Should be render a text 1`] = `
+.c0 {
+  font-size: 2.5rem;
+}
+
+<div
+  class="c0"
+>
+  Children
+</div>
+`;
